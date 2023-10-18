@@ -47,7 +47,6 @@ Take a look at some of the amazing projects I've worked on:
      - React Native
      - Typescript
      - Redux
-     - Content Stack
 
 ## Get in Touch 📬
 
