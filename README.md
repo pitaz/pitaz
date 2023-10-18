@@ -44,7 +44,7 @@ Take a look at some of the amazing projects I've worked on:
          
 4. [Pocket by Piggyvest](https://apps.apple.com/gm/app/abeg/id1532676793) 🪄: Abeg is a peer-to-peer payment app that makes sending and receiving money easy, fast and fun There's also the social element where you can request funds, spilt bills, create and join giveaways
    - Technology
-     - React
+     - React Native
      - Typescript
      - Redux
      - Content Stack
